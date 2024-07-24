@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_sanpham"
+            android:icon="@drawable/baseline_smartphone_24"
+            android:title="Sản phẩm"/>
+
+        <item
+            android:id="@+id/nav_lienhe"
+            android:icon="@drawable/baseline_contact_phone_24"
+            android:title="Liên hệ "/>
+
+        <item
+            android:id="@+id/nav_blog"
+            android:icon="@drawable/baseline_newspaper_24"
+            android:title="Blog"/>
+        <item
+            android:id="@+id/nav_24h"
+            android:icon="@drawable/ic_baseline_search_24"
+            android:title="24h.com"/>
+    </group>
+
+</menu>

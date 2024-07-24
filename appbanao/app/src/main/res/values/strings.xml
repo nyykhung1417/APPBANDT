@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ecommerce</string>
+    <string name="action_home">Home</string>
+    <string name="action_account">Account</string>
+    <string name="action_cart">My Cart</string>
+    <string name="action_blog">Blog</string>
+    <string name="action_product">Product</string>
+</resources>

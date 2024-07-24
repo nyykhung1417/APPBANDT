@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <item-->
+<!--        android:title="Sản phẩm"-->
+<!--        android:id="@+id/menusanpham"/>-->
+
+<!--    <item-->
+<!--        android:title="Blog"-->
+<!--        android:id="@+id/menublog"/>-->
+
+<!--    <item-->
+<!--        android:title="Liên hệ"-->
+<!--        android:id="@+id/menulienhe"/>-->
+    <item
+        android:title="Lịch sử mua hàng"
+        android:id="@+id/action_donhang"/>
+    <item
+        android:title="Đăng xuất"
+        android:id="@+id/dangxuat"/>
+</menu>
